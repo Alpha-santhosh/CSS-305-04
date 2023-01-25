@@ -1,2 +1,2 @@
 # CSS-305-04
-https://github.com/Alpha-santhosh/CSS-305-04.git
+https://alpha-santhosh.github.io/CSS-305-04/
